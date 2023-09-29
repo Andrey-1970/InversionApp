@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionApp", "InversionApp\InversionApp.csproj", "{81C940D4-FD1D-436F-87DD-93E58CEA7A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{6C1ADBF0-F2DA-420B-9264-395823308D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C940D4-FD1D-436F-87DD-93E58CEA7A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C940D4-FD1D-436F-87DD-93E58CEA7A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C940D4-FD1D-436F-87DD-93E58CEA7A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C940D4-FD1D-436F-87DD-93E58CEA7A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1ADBF0-F2DA-420B-9264-395823308D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1ADBF0-F2DA-420B-9264-395823308D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1ADBF0-F2DA-420B-9264-395823308D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1ADBF0-F2DA-420B-9264-395823308D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C69CACA6-856D-44FE-BE98-854F7FCFAA38}
+	EndGlobalSection
+EndGlobal
